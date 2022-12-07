@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-07T14:22:10.253Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="bDLHeOcMaW-IeSRfmm69" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-07T14:31:06.114Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="C_b9KGUHtPyRxSQ4_Q96" version="20.6.0" type="github">
   <diagram id="Gw7SjPRHPI560Tm9hMZg" name="Сторінка-1">
     <mxGraphModel dx="1422" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
@@ -351,8 +351,136 @@
         <mxCell id="EbI8DRGRymxXbqv4lqM2-55" value="Метанна меча" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="160" y="1640" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="EbI8DRGRymxXbqv4lqM2-56" value="Метанна меча" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#333333;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="EbI8DRGRymxXbqv4lqM2-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;fontSize=12;" edge="1" parent="1" source="EbI8DRGRymxXbqv4lqM2-56" target="EbI8DRGRymxXbqv4lqM2-58">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="390" y="1650" />
+              <mxPoint x="390" y="1580" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EbI8DRGRymxXbqv4lqM2-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;" edge="1" parent="1" source="EbI8DRGRymxXbqv4lqM2-56" target="EbI8DRGRymxXbqv4lqM2-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EbI8DRGRymxXbqv4lqM2-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;fontSize=12;" edge="1" parent="1" source="EbI8DRGRymxXbqv4lqM2-56" target="EbI8DRGRymxXbqv4lqM2-62">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="390" y="1670" />
+              <mxPoint x="390" y="1740" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EbI8DRGRymxXbqv4lqM2-56" value="Куди гравець кинув катану?" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#333333;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="280" y="1640" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EbI8DRGRymxXbqv4lqM2-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;" edge="1" parent="1" source="EbI8DRGRymxXbqv4lqM2-58" target="EbI8DRGRymxXbqv4lqM2-70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EbI8DRGRymxXbqv4lqM2-58" value="Стіну" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#333333;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="400" y="1560" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EbI8DRGRymxXbqv4lqM2-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;" edge="1" parent="1" source="EbI8DRGRymxXbqv4lqM2-60" target="EbI8DRGRymxXbqv4lqM2-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EbI8DRGRymxXbqv4lqM2-60" value="Противника зі щитом" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#333333;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="400" y="1640" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EbI8DRGRymxXbqv4lqM2-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;" edge="1" parent="1" source="EbI8DRGRymxXbqv4lqM2-62" target="EbI8DRGRymxXbqv4lqM2-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EbI8DRGRymxXbqv4lqM2-62" value="Противника" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#333333;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="400" y="1720" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EbI8DRGRymxXbqv4lqM2-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;" edge="1" parent="1" source="EbI8DRGRymxXbqv4lqM2-64" target="EbI8DRGRymxXbqv4lqM2-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EbI8DRGRymxXbqv4lqM2-64" value="Нанести урон" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#333333;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="520" y="1720" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EbI8DRGRymxXbqv4lqM2-66" value="Повернутись" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#333333;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="640" y="1720" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EbI8DRGRymxXbqv4lqM2-68" value="Відбитись в іншу сторону" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#333333;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="520" y="1640" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EbI8DRGRymxXbqv4lqM2-70" value="Повернутись" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#333333;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="520" y="1560" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EbI8DRGRymxXbqv4lqM2-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;" edge="1" parent="1" source="EbI8DRGRymxXbqv4lqM2-72" target="EbI8DRGRymxXbqv4lqM2-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EbI8DRGRymxXbqv4lqM2-72" value="Хвиля" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="160" y="1880" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EbI8DRGRymxXbqv4lqM2-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;fontSize=12;" edge="1" parent="1" source="EbI8DRGRymxXbqv4lqM2-73" target="EbI8DRGRymxXbqv4lqM2-75">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="390" y="1890" />
+              <mxPoint x="390" y="1820" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EbI8DRGRymxXbqv4lqM2-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;fontSize=12;" edge="1" parent="1" source="EbI8DRGRymxXbqv4lqM2-73" target="EbI8DRGRymxXbqv4lqM2-77">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="390" y="1910" />
+              <mxPoint x="390" y="1980" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EbI8DRGRymxXbqv4lqM2-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;" edge="1" parent="1" source="EbI8DRGRymxXbqv4lqM2-73" target="EbI8DRGRymxXbqv4lqM2-79">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EbI8DRGRymxXbqv4lqM2-73" value="Куди вдарив гравець?" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#333333;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="280" y="1880" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EbI8DRGRymxXbqv4lqM2-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;" edge="1" parent="1" source="EbI8DRGRymxXbqv4lqM2-75" target="EbI8DRGRymxXbqv4lqM2-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EbI8DRGRymxXbqv4lqM2-75" value="Проджектайл" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#333333;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="400" y="1800" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EbI8DRGRymxXbqv4lqM2-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;" edge="1" parent="1" source="EbI8DRGRymxXbqv4lqM2-77" target="EbI8DRGRymxXbqv4lqM2-85">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EbI8DRGRymxXbqv4lqM2-77" value="Противник" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#333333;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="400" y="1960" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EbI8DRGRymxXbqv4lqM2-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;" edge="1" parent="1" source="EbI8DRGRymxXbqv4lqM2-79" target="EbI8DRGRymxXbqv4lqM2-83">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EbI8DRGRymxXbqv4lqM2-79" value="Противник зі щитом" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#333333;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="400" y="1880" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EbI8DRGRymxXbqv4lqM2-81" value="Відбити" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#333333;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="520" y="1800" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EbI8DRGRymxXbqv4lqM2-83" value="Зламати щит" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#333333;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="520" y="1880" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EbI8DRGRymxXbqv4lqM2-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;" edge="1" parent="1" source="EbI8DRGRymxXbqv4lqM2-85" target="EbI8DRGRymxXbqv4lqM2-87">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EbI8DRGRymxXbqv4lqM2-85" value="Нанести урон" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#333333;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="520" y="1960" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EbI8DRGRymxXbqv4lqM2-87" value="Відштовхнути противника" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#333333;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="640" y="1960" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EbI8DRGRymxXbqv4lqM2-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;" edge="1" parent="1" source="EbI8DRGRymxXbqv4lqM2-89" target="EbI8DRGRymxXbqv4lqM2-90">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EbI8DRGRymxXbqv4lqM2-89" value="Сплеш" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="160" y="2120" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EbI8DRGRymxXbqv4lqM2-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;" edge="1" parent="1" source="EbI8DRGRymxXbqv4lqM2-90" target="EbI8DRGRymxXbqv4lqM2-92">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EbI8DRGRymxXbqv4lqM2-90" value="Полетіти в напрямку прицілу" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#333333;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="280" y="2120" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EbI8DRGRymxXbqv4lqM2-92" value="Пропасти через 3 секунди" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#333333;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="400" y="2120" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
