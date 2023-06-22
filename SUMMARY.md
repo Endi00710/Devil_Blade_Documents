@@ -6,4 +6,4 @@
 
 * [Керування](geimplei/keruvannya.md)
 * [Система ХП](geimplei/sistema-khp.md)
-* [Бій](geimplei/bii.md)
+* [Катана](geimplei/katana.md)
